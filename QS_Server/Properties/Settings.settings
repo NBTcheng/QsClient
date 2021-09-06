@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QS_Server.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IPAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.12</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9200</Value>
+    </Setting>
+    <Setting Name="YHUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="启动路径" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\myC#\测试\唤醒</Value>
+    </Setting>
+    <Setting Name="启动程序名" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NBTxxqs_heating.exe</Value>
+    </Setting>
+    <Setting Name="开关" Type="System.String" Scope="User">
+      <Value Profile="(Default)">开启</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
